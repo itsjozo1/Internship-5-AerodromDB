@@ -9,20 +9,6 @@ create table Airports(
 	CityId int references Cities(CityId) 
 ); 
 
-create table Runaways( 
-	RunawayId serial primary key, 
-	Name varchar(10) not null, 
-	AirportId int references Airports(AirportId),
-	PlaneId int references Planes(PlaneId)
-); 
-
-create table Warehouses( 
-	WarehouseId serial primary key, 
-	Name varchar(10) not null, 
-	AirportId int references Airports(AirportId),
-	PlaneId int references Planes(PlaneId)
-); 
-
 create table Companies ( 
 	CompanyId serial primary key, 
 	Name varchar(30) not null 
@@ -32,10 +18,11 @@ create table Planes(
 	PlaneId serial primary key, 
 	Name varchar(20) not null, 
 	CapacityEconomy int not null, 
+	Status varchar(50) not null,
 	CapacityFirstClass int not null, Status varchar(10), 
-	CompanyId int references Companies(CompanyId) 
+	CompanyId int references Companies(CompanyId),
+	LocationStatus varchar(50) not null
 ); 
-
 create table Seats( 
 	SeatId serial primary key, 
 	Class varchar(10) not null, 
@@ -54,13 +41,16 @@ create table Pilots(
 	PilotId serial primary key, 
 	Name varchar(30) not null, 
 	Surname varchar(30) not null, 
-	Birth timestamp 
+	Birth timestamp,
+	Pay int not null
 ); 
+
 create table Stewardesses( 
 	StewardessId serial primary key, 
 	Name varchar(30) not null, 
 	Surname varchar(30) not null, 
-	Birth timestamp 
+	Birth timestamp,
+	Pay int not null
 ); 
 
 create table Flights( 
@@ -70,7 +60,8 @@ create table Flights(
 	EndAirportId int references Airports(AirportId), 
 	StartDate date not null, 
 	EndDate date not null, 
-	Capacity int not null 
+	CapacityEconomy int not null,
+	CapacityFirstClass int not null
 );
 
 create table Tickets( 
@@ -87,21 +78,43 @@ create table FlightsTickets(
 	FlightId int references Flights(FlightId) 
 ); 
 
-create table FlightsStaff( 
+create table FlightsPilots( 
 	FlightId int references Flights(FlightId), 
-	PilotId int references Pilots(PilotId), 
+	PilotId int references Pilots(PilotId)
+); 
+create table FlightsStewardesses( 
+	FlightId int references Flights(FlightId), 
 	StewardessId int references Stewardesses(StewardessId) 
 ); 
 
 create table TicketsUsers( 
+	TicketUsersId serial primary key,
 	TicketId int references Tickets(TicketId), 
 	UsersId int references Users(UserId), 
 	Rating int not null 
 ); 
-
 create table Comments( 
 	CommentId serial primary key, 
 	UserId int references Users(UserId), 
 	FlightId int references Flights(FlightId), 
 	Comment varchar(100) 
 );
+
+ALTER TABLE Planes
+ADD CONSTRAINT CheckStatus CHECK (Status IN ('Na prodaji', 'Aktivan', 'Na popravku', 'Razmontiran'));
+
+ALTER TABLE Pilots
+ADD CONSTRAINT CheckPilotAge
+CHECK (
+    AGE(Birth) BETWEEN INTERVAL '20 years' AND INTERVAL '60 years'
+);
+
+alter table ticketsusers
+add constraint CheckRatingRange 
+check(rating between 1 and 5);
+
+alter table FlightsPilots
+add constraint CheckPilotsNumber check(PilotId <= 2);
+alter table FlightsStewardesses 
+add constraint CheckStewardessesNumber check(StewardessId <= 4);
+
