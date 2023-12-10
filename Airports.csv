@@ -1,0 +1,501 @@
+AirportId,Name,CityId
+1,Erzurum International Airport,484
+2,Iaşi Airport,118
+3,Betioky Airport,456
+4,Hampton Municipal Airport,167
+5,Mörön Airport,455
+6,Renton Municipal Airport,103
+7,Quaqtaq Airport,375
+8,Minchumina Airport,205
+9,Tuntutuliak Airport,121
+10,Bisbee Douglas International Airport,47
+11,Baca Grande Airfield,180
+12,Christchurch International Airport,36
+13,Bogande Airport,402
+14,Sado Airport,213
+15,Moabi Airport,432
+16,Hachinohe Airport,214
+17,Pueblo Memorial Airport,289
+18,Carajás Airport,52
+19,Namtu Airport,398
+20,Crane Island Airstrip,249
+21,Tumolbil Airport,283
+22,Bhojpur Airport,431
+23,Skellefteå Airport,272
+24,Cherepovets Airport,101
+25,Red Devil Airport,426
+26,Kaukura Airport,239
+27,Maleo Airport,406
+28,Vandenberg Air Force Base,170
+29,O'Neal Airport,170
+30,Calgary International Airport,173
+31,Hongyuan Airport,150
+32,Manumu Airport,93
+33,Kearney Regional Airport,105
+34,Tucuruí Airport,345
+35,Midland International Airport,303
+36,Malalaua Airport,351
+37,Eday Airport,465
+38,Trang Airport,405
+39,Stewart Airport,353
+40,Sywell Aerodrome,126
+41,Limbunya Airport,315
+42,Brigadeiro Cabral Airport,462
+43,Oban Airport,36
+44,Rinkenberger Restricted Landing Area,62
+45,Big Bay Seaplane Base,406
+46,Grand Forks Airport,327
+47,Karubaga Airport,457
+48,Polk Army Air Field,194
+49,Kelanoa Airport,314
+50,Innamincka Airport,212
+51,Alluitsup Paa Heliport,212
+52,Hodeidah International Airport,214
+53,Rocky Mount Wilson Regional Airport,464
+54,Brackett Field,38
+55,Santa Cruz Island Airport,441
+56,Mostar International Airport,35
+57,Alghero-Fertilia Airport,178
+58,Baures Airport,404
+59,Angel Fire Airport,306
+60,Wanuma Airport,287
+61,Cape Lisburne LRRS Airport,305
+62,Duncan Town Airport,187
+63,Cranbrook/Canadian Rockies International Airport,95
+64,Malta Airport,351
+65,Evans Head Aerodrome,126
+66,Forrest City Municipal Airport,345
+67,Manila Municipal Airport,309
+68,Tichitt Airport,39
+69,Millington-Memphis Airport,368
+70,Tau Airport,230
+71,Brownsville South Padre Island International Airport,205
+72,Ames Municipal Airport,33
+73,Lewis University Airport,142
+74,Zhukovsky International Airport,193
+75,Aqaba King Hussein International Airport,83
+76,Secunda Airport,354
+77,Hotan Airport,267
+78,Ivanovo South Airport,468
+79,Elkins-Randolph Co-Jennings Randolph Field,470
+80,John F Kennedy Memorial Airport,126
+81,Cascade Locks State Airport,201
+82,Koro Island Airport,331
+83,Asaloyeh Airport,452
+84,Eduardo Gomes International Airport,477
+85,Hawthorne Industrial Airport,450
+86,Nekemte Airport,270
+87,Pinto Martins International Airport,416
+88,Il Caravaggio International Airport,276
+89,Montepuez Airport,196
+90,Tipton Airport,111
+91,Manassas Regional Airport/Harry P. Davis Field,358
+92,Amgu Airport,418
+93,Piedras Negras International Airport,33
+94,Serui Airport,58
+95,Böblingen Flugfeld,245
+96,Kirovsk-Apatity Airport,299
+97,Halim Perdanakusuma International Airport,253
+98,C David Campbell Field Corsicana Municipal Airport,53
+99,Clarksville–Montgomery County Regional Airport,98
+100,Gävle Sandviken Airport,295
+101,Rosella Plains Airport,218
+102,Rumbek Airport,149
+103,Balgo Hill Airport,23
+104,Akjoujt Airport,293
+105,Stephenville Airport,272
+106,Sheghnan Airport,238
+107,Tabou Airport,385
+108,Asbury Park Neptune Air Terminal,79
+109,Luxembourg-Findel International Airport,293
+110,Jacquinot Bay Airport,98
+111,La Môle Airport,314
+112,Port Mcneill Airport,444
+113,Lecce Galatina Air Base,319
+114,Kotlik Airport,39
+115,Rafaï Airport,99
+116,Yerbogachen Airport,438
+117,Rangiroa Airport,296
+118,Budapest Liszt Ferenc International Airport,391
+119,Kasese Airport,288
+120,Daocheng Yading Airport,340
+121,Cerro Largo International Airport,391
+122,El Tehuelche Airport,97
+123,Scammon Bay Airport,359
+124,Erzincan Airport,35
+125,Bulgan Sum Airport,237
+126,Huatugou Airport,492
+127,San Carlos Airport,368
+128,Lutselk'e Airport,188
+129,St. Anthony Airport,252
+130,Chernofski Harbor Seaplane Base,455
+131,Los Alamos Airport,467
+132,Sequim Valley Airport,283
+133,Daniel Z. Romualdez Airport,298
+134,Durrie Airport,438
+135,Sumy Airport,310
+136,Caçador Airport,155
+137,Asturias Airport,152
+138,Kimaam Airport,49
+139,Sacramento International Airport,6
+140,Narrabri Airport,319
+141,Foya Airport,394
+142,Buariki Airport,321
+143,North Ronaldsay Airport,78
+144,Flushing Airport,25
+145,Bob Baker Memorial Airport,147
+146,Málaga Airport,359
+147,Golmud Airport,84
+148,Berz-Macomb Airport,376
+149,Jacksonville Naval Air Station (Towers Field),151
+150,Kazi Nazrul Islam Airport,105
+151,Sauðárkrókur Airport,131
+152,Hays Regional Airport,330
+153,Shun Tak Heliport,112
+154,Princeton Municipal Airport,119
+155,Carora Airport,366
+156,Lordsburg Municipal Airport,286
+157,Fullerton Municipal Airport,58
+158,Arugam Bay SPB,91
+159,Diori Hamani International Airport,75
+160,New Coalinga Municipal Airport,271
+161,Carbon County Regional/Buck Davis Field,273
+162,Ciudad Mante National Airport,145
+163,Middleton Island Airport,104
+164,Kalbarri Airport,77
+165,Centralia Municipal Airport,220
+166,Yeosu Airport,331
+167,Gods Lake Narrows Airport,447
+168,Francisco de Sá Carneiro Airport,138
+169,Kol Airport,177
+170,Roland Garros Airport,220
+171,Phaplu Airport,82
+172,Qianjiang Wulingshan Airport,295
+173,Kiunga Airport,248
+174,Bursa Yenişehir Airport,288
+175,Liping Airport,26
+176,Aosta Airport,468
+177,Cabo 1° Juan Román Airport,253
+178,Lotus Vale Airport,207
+179,Hammerfest Airport,160
+180,Brookhaven Airport,376
+181,Jiwani Airport,362
+182,Chifeng Airport,109
+183,Hawkins Field,281
+184,Koinambe Airport,3
+185,Long Semado Airport,112
+186,Yushu Batang Airport,447
+187,Andorra la Vella Heliport,203
+188,Tabal Airstrip,49
+189,J F Mitchell Airport,393
+190,Ilford Airport,387
+191,Mianwali Air Base,353
+192,Carta Airport,349
+193,Hobart International Airport,138
+194,Clifton Hills Airport,398
+195,Kangiqsujuaq (Wakeham Bay) Airport,262
+196,Omar N Bradley Airport,25
+197,Mirny Airport,10
+198,Parker County Airport,123
+199,Adolfo Suárez Madrid–Barajas Airport,401
+200,Ayawasi Airport,240
+201,Ástor Piazzola International Airport,209
+202,Carlisle Airport,445
+203,Timişoara Traian Vuia Airport,436
+204,Fairmont Municipal Airport,167
+205,Derim Airport,113
+206,St Paul Island Airport,73
+207,Barkley Regional Airport,258
+208,O'Neal Airport,432
+209,Pescara International Airport,158
+210,Sierra Maestra Airport,473
+211,Billings Logan International Airport,253
+212,Charlevoix Airport,376
+213,Tsile Tsile Airport,285
+214,Rand Airport,378
+215,Dangriga Airport,261
+216,Manley Hot Springs Airport,305
+217,Peawanuck Airport,298
+218,Wanganui Airport,317
+219,Lerwick / Tingwall Airport,346
+220,Liuzhou Bailian Airport,391
+221,Los Angeles International Airport,496
+222,Murray Field,132
+223,Rizhao Shanzihe Airport,400
+224,Rio Grande Airport,80
+225,Eastmain River Airport,261
+226,Metropolitan Oakland International Airport,238
+227,Loei Airport,17
+228,Hazleton Municipal Airport,107
+229,Langkawi International Airport,320
+230,Goulimime Airport,452
+231,Gayndah Airport,1
+232,Sucua Airport,52
+233,Strathmore Airport,304
+234,Paramillo Airport,219
+235,Elkins-Randolph Co-Jennings Randolph Field,241
+236,Mount Full Stop Airport,421
+237,Ein Yahav Airfield,107
+238,Prof. Eribelto Manoel Reino State Airport,69
+239,Kasonombe Airport,129
+240,Norfolk Naval Station (Chambers Field),455
+241,Orenburg Central Airport,87
+242,Moffett Federal Airfield,447
+243,Necochea Airport,399
+244,Rukum Chaurjahari Airport,223
+245,Pagadian Airport,138
+246,Kalaleh Airport,475
+247,Guadalupe Airport,215
+248,Castle Airport,46
+249,Gautam Buddha Airport,81
+250,Washington Dulles International Airport,54
+251,Suvarnabhumi Airport,422
+252,Winter Haven Regional Airport - Gilbert Field,220
+253,Eastern Oregon Regional At Pendleton Airport,246
+254,Hon Airport,363
+255,Aua Island Airport,236
+256,Kepi Airport,114
+257,Learmonth Airport,371
+258,Emalamo Sanana Airport,193
+259,Woodward Field,82
+260,Big Bay Seaplane Base,302
+261,Destin-Ft Walton Beach Airport,11
+262,Ambriz Airport,109
+263,The Pas Airport,397
+264,Downtown Airpark,25
+265,Dhaalu Atoll Airport,129
+266,Dodoma Airport,390
+267,Clifton Hills Airport,453
+268,Awang Airport,183
+269,La Grande-3 Airport,201
+270,Marshall Memorial Municipal Airport,128
+271,Tripoli International Airport,465
+272,Baco Airport,418
+273,Chicken Airport,390
+274,Cauayan Airport,478
+275,Mohamed Boudiaf International Airport,244
+276,Fera/Maringe Airport,174
+277,La Roche-sur-Yon Airport,203
+278,Red Devil Airport,404
+279,Naracoorte Airport,194
+280,Tres De Mayo Airport,121
+281,Niamtougou International Airport,268
+282,Esenboğa International Airport,468
+283,Porto Santo Airport,209
+284,Noumérat - Moufdi Zakaria Airport,246
+285,Wilkes Barre Wyoming Valley Airport,83
+286,Xi'an Xianyang International Airport,303
+287,Harar Meda Airport,21
+288,Brunei International Airport,58
+289,Pindiu Airport,338
+290,Bandon State Airport,340
+291,Bilbao Airport,24
+292,Bomar Field Shelbyville Municipal Airport,76
+293,Ticantiki Airport,453
+294,Powell River Airport,450
+295,Tamchakett Airport,59
+296,Saposoa Airport,341
+297,Ouesso Airport,298
+298,Sugraly Airport,268
+299,Bowman Field,44
+300,Ziguinchor Airport,197
+301,Kings Creek Airport,446
+302,Bonriki International Airport,226
+303,Mostaganem Airport,23
+304,Teniente Coronel Luis a Mantilla Airport,22
+305,Bhavnagar Airport,346
+306,Hang Nadim International Airport,483
+307,Ibadan Airport,128
+308,Chimore Airport,174
+309,Roberts International Airport,395
+310,Morichal Airport,183
+311,Hpapun Airport,194
+312,Dinangat Airport,289
+313,Vir Savarkar International Airport,418
+314,Bolwarra Airport,460
+315,Winchester Regional Airport,215
+316,Gamba Airport,409
+317,Otu Airport,36
+318,Guangyuan Airport,240
+319,Palm Beach County Glades Airport,140
+320,Çıldır Airport,112
+321,Andrés Miguel Salazar Marcano Airport,90
+322,Ciudad Acuña New International Airport,448
+323,Hongyuan Airport,289
+324,Mildura Airport,83
+325,Beaver Creek Airport,54
+326,Pukapuka Island Airport,152
+327,Fergus Falls Municipal Airport - Einar Mickelson Field,160
+328,Armidale Airport,244
+329,El Mirador Airport,372
+330,Kokhanok Airport,273
+331,Phoenix Sky Harbor International Airport,100
+332,Hesa Airport,229
+333,Erzincan Airport,261
+334,Sand Creek Airport,413
+335,Molokai Airport,493
+336,Durango La Plata County Airport,243
+337,Igor I Sikorsky Memorial Airport,193
+338,Margate Airport,232
+339,Conroe-North Houston Regional Airport,423
+340,San Luis Río Colorado Airport,216
+341,Windarra Airport,361
+342,Key Field,184
+343,Besalampy Airport,97
+344,Dulkaninna Airport,66
+345,Dunk Island Airport,457
+346,Al Ahsa Airport,153
+347,McChord Air Force Base,102
+348,Mawella Lagoon Seaplane Base,132
+349,Zaraza Airport,249
+350,Kamaran Downs Airport,290
+351,Bojnord Airport,194
+352,Sahabat [Sahabat 16] Airport,473
+353,Leshukonskoye Airport,24
+354,Emo River Airstrip,272
+355,Senipah Heliport,475
+356,Bahia Cupica Airport,227
+357,Geva Airport,322
+358,Simikot Airport,453
+359,Igarka Airport,492
+360,Page Field,95
+361,Sharpe Field,428
+362,Bassel Al-Assad International Airport,453
+363,West Point Village Seaplane Base,474
+364,Frans Kaisiepo Airport,68
+365,Villanova D'Albenga International Airport,212
+366,Chacalluta Airport,214
+367,Murod Kond Airport,497
+368,Huacaraje Airport,188
+369,Barkly Downs Airport,17
+370,Paradise River Airport,481
+371,Springfield Branson National Airport,50
+372,Tawau Airport,141
+373,Bardera Airport,144
+374,Tapini Airport,385
+375,Natashquan Airport,304
+376,Okierabu Airport,145
+377,Ralph Wien Memorial Airport,461
+378,Prince Sultan Air Base,30
+379,Lutselk'e Airport,404
+380,Jindabyne Airport,341
+381,North of Sixty Airport,203
+382,Hasvik Airport,321
+383,Artesia Municipal Airport,324
+384,Goroka Airport,345
+385,Schenck Field,353
+386,Napperby Airport,382
+387,Cape Lisburne LRRS Airport,99
+388,Alice International Airport,275
+389,Ibn Batouta Airport,452
+390,Oamaru Airport,325
+391,Dorobisoro Airport,5
+392,Tanacross Airport,490
+393,Mary Airport,233
+394,Korhogo Airport,283
+395,Monterrey Airport,242
+396,Arrabury Airport,432
+397,General Lucio Blanco International Airport,414
+398,Warder Airport,378
+399,Tumbler Ridge Airport,491
+400,East Hampton Airport,172
+401,Casa De Campo International Airport,257
+402,Hosea Kutako International Airport,55
+403,São Miguel do Oeste Airport,255
+404,Carlos Rovirosa Pérez International Airport,416
+405,Marqua Airport,284
+406,Nusawiru Airport,246
+407,Selbang Airport,20
+408,Petersburg James A Johnson Airport,115
+409,Tuktoyaktuk Airport,19
+410,Coles County Memorial Airport,188
+411,Kasompe Airport,409
+412,Kadena Air Base,220
+413,Pratt Regional Airport,394
+414,George Airport,348
+415,Khon Kaen Airport,57
+416,Terapo Airport,327
+417,Trompeteros Airport,226
+418,Cumaná (Antonio José de Sucre) Airport,36
+419,Gambella Airport,177
+420,Siglufjörður Airport,495
+421,Mandera Airport,56
+422,Lukla Airport,15
+423,Ingeniero Ambrosio Taravella Airport,317
+424,El Bagre Airport,30
+425,Dalby Airport,88
+426,Puerto Paez Airport,49
+427,Francisco de Assis Airport,296
+428,Kandep Airport,326
+429,Toledo Express Airport,6
+430,Breiðdalsvík Airport,235
+431,Songea Airport,493
+432,Lubango Airport,407
+433,Belgrade Nikola Tesla Airport,12
+434,RAF Alconbury,450
+435,Pittsburgh/Butler Regional Airport,66
+436,Hólmavík Airport,207
+437,Donoi Airport,491
+438,German Olano Air Base,451
+439,Lyons-Rice County Municipal Airport,351
+440,Magan Airport,396
+441,Ta’if Regional Airport,48
+442,Los Chiles Airport,169
+443,Patreksfjörður Airport,131
+444,Campbell AAF (Fort Campbell) Air Field,239
+445,Mainoru Airstrip,201
+446,Maputo Airport,416
+447,Issyk-Kul International Airport,437
+448,Wasum Airport,113
+449,Bartica A Airport,9
+450,Gwangju Airport,17
+451,Bayankhongor Airport,163
+452,Krabi Airport,123
+453,Atka Airport,259
+454,Betou Airport,426
+455,Stokmarknes Skagen Airport,490
+456,Kalymnos Airport,114
+457,Francisco de Assis Airport,337
+458,Flushing Airport,458
+459,Waterbury Oxford Airport,435
+460,Gustaf III Airport,191
+461,Charleville Airport,145
+462,Bowman Field,195
+463,Warroad International Memorial Airport,73
+464,Fairfield Municipal Airport,429
+465,Çıldır Airport,279
+466,Guemar Airport,317
+467,Palma De Mallorca Airport,465
+468,Torrington Municipal Airport,135
+469,Abu Rudeis Airport,39
+470,Cooinda Airport,314
+471,Ilam Airport,223
+472,Zafer Airport,407
+473,San Diego International Airport,498
+474,Laura Airport,198
+475,Smyrna Airport,416
+476,Kolda North Airport,89
+477,Wenzhou Longwan International Airport,66
+478,Raglan Airfield,350
+479,Kitee Airport,360
+480,Tonopah Test Range Airport,114
+481,Kota Airport,17
+482,Yangzhou Taizhou Airport,124
+483,Sakon Nakhon Airport,441
+484,Paderborn Lippstadt Airport,154
+485,Valle Airport,172
+486,Porter County Municipal Airport,248
+487,Pdte. Carlos Ibañez del Campo Airport,289
+488,Forestville Airport,67
+489,Biju Patnaik Airport,464
+490,Huangyan Luqiao Airport,88
+491,Irkutsk Airport,312
+492,Puerto Cabezas Airport,114
+493,Kalmar Airport,186
+494,Dewadaru - Kemujan Island,470
+495,Stephenville Airport,230
+496,Playa Samara/Carrillo Airport,317
+497,Ayers Rock Connellan Airport,4
+498,Fremont County Airport,315
+499,Sola Airport,220
+500,Porto dos Gaúchos Airport,283

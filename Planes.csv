@@ -1,0 +1,601 @@
+PlaneId,Name,CapacityEconomy,CapacityFirstClass,CompanyId,Status
+1,Embraer,12,27,400,Razmontiran
+2,Cessna,91,24,263,Razmontiran
+3,Boeing,11,28,491,Aktivan
+4,Bombardier,138,17,187,Aktivan
+5,Airbus,4,4,8,Razmontiran
+6,Bombardier,63,19,35,Na popravku
+7,Airbus,3,20,132,Aktivan
+8,Boeing,37,26,402,Na popravku
+9,Bombardier,99,30,288,Na popravku
+10,Airbus,87,13,263,Aktivan
+11,Embraer,150,30,195,Aktivan
+12,Challenger,88,7,30,Aktivan
+13,Challenger,81,30,60,Na popravku
+14,Challenger,1,26,390,Aktivan
+15,Embraer,146,29,260,Na popravku
+16,Embraer,73,14,45,Aktivan
+17,Bombardier,79,13,82,Na popravku
+18,Airbus,131,24,447,Razmontiran
+19,Bombardier,63,7,233,Na prodaji
+20,Embraer,71,9,372,Na popravku
+21,Boeing,90,19,42,Na popravku
+22,Challenger,55,7,403,Na popravku
+23,Airbus,103,5,230,Aktivan
+24,Boeing,115,18,197,Razmontiran
+25,Airbus,19,19,407,Aktivan
+26,Embraer,121,11,199,Aktivan
+27,Boeing,26,25,119,Aktivan
+28,Challenger,142,14,246,Aktivan
+29,Embraer,61,7,311,Razmontiran
+30,Embraer,23,21,408,Aktivan
+31,Airbus,19,30,411,Aktivan
+32,Airbus,44,18,197,Na popravku
+33,Challenger,15,14,266,Na popravku
+34,Challenger,99,24,486,Na popravku
+35,Boeing,77,29,13,Razmontiran
+36,Embraer,83,30,135,Aktivan
+37,Challenger,112,13,450,Razmontiran
+38,Challenger,62,10,332,Aktivan
+39,Cessna,62,6,25,Aktivan
+40,Bombardier,128,6,291,Aktivan
+41,Bombardier,45,18,78,Na popravku
+42,Airbus,18,30,109,Aktivan
+43,Cessna,143,25,58,Aktivan
+44,Cessna,62,28,220,Aktivan
+45,Embraer,130,13,78,Aktivan
+46,Embraer,80,14,439,Razmontiran
+47,Embraer,117,28,39,Na popravku
+48,Bombardier,130,7,397,Na popravku
+49,Bombardier,133,7,59,Aktivan
+50,Boeing,13,20,281,Aktivan
+51,Airbus,117,25,422,Razmontiran
+52,Airbus,27,4,31,Aktivan
+53,Challenger,91,16,80,Aktivan
+54,Challenger,70,11,331,Aktivan
+55,Bombardier,136,26,247,Razmontiran
+56,Bombardier,47,1,426,Aktivan
+57,Embraer,91,8,463,Aktivan
+58,Cessna,62,20,257,Razmontiran
+59,Cessna,145,2,239,Aktivan
+60,Airbus,123,28,46,Aktivan
+61,Embraer,55,27,205,Aktivan
+62,Bombardier,121,24,57,Na popravku
+63,Boeing,144,7,314,Aktivan
+64,Bombardier,37,28,322,Na popravku
+65,Airbus,24,8,256,Aktivan
+66,Bombardier,138,22,242,Aktivan
+67,Challenger,95,28,353,Na popravku
+68,Airbus,103,7,13,Aktivan
+69,Cessna,150,21,280,Na popravku
+70,Embraer,108,10,222,Razmontiran
+71,Cessna,12,19,383,Aktivan
+72,Challenger,52,2,302,Aktivan
+73,Challenger,32,24,444,Aktivan
+74,Challenger,55,5,180,Aktivan
+75,Embraer,139,2,108,Na popravku
+76,Airbus,48,16,149,Na prodaji
+77,Bombardier,137,9,101,Aktivan
+78,Airbus,134,26,141,Aktivan
+79,Boeing,116,30,152,Aktivan
+80,Airbus,66,10,361,Aktivan
+81,Challenger,101,3,400,Aktivan
+82,Boeing,104,24,378,Na popravku
+83,Boeing,75,26,70,Aktivan
+84,Bombardier,99,24,92,Aktivan
+85,Cessna,24,15,141,Aktivan
+86,Airbus,1,26,447,Na popravku
+87,Challenger,128,24,53,Na prodaji
+88,Cessna,17,5,64,Na popravku
+89,Embraer,112,20,377,Na prodaji
+90,Bombardier,100,5,331,Razmontiran
+91,Airbus,20,6,194,Na prodaji
+92,Boeing,35,12,94,Razmontiran
+93,Cessna,47,11,171,Aktivan
+94,Boeing,92,8,353,Aktivan
+95,Embraer,6,28,9,Razmontiran
+96,Bombardier,97,6,278,Razmontiran
+97,Airbus,65,19,33,Aktivan
+98,Boeing,136,4,410,Na popravku
+99,Embraer,132,23,192,Na popravku
+100,Boeing,22,23,39,Na popravku
+101,Cessna,122,2,338,Aktivan
+102,Embraer,109,21,341,Aktivan
+103,Airbus,14,17,47,Razmontiran
+104,Cessna,105,5,480,Aktivan
+105,Boeing,147,18,291,Aktivan
+106,Bombardier,108,6,498,Aktivan
+107,Boeing,79,4,442,Aktivan
+108,Embraer,71,5,211,Aktivan
+109,Cessna,149,5,416,Aktivan
+110,Bombardier,28,27,479,Aktivan
+111,Boeing,117,21,125,Aktivan
+112,Airbus,52,25,109,Razmontiran
+113,Boeing,148,20,390,Aktivan
+114,Boeing,94,21,249,Aktivan
+115,Cessna,136,22,287,Na popravku
+116,Embraer,36,26,307,Razmontiran
+117,Airbus,78,6,235,Na popravku
+118,Challenger,121,23,435,Aktivan
+119,Airbus,142,17,91,Na prodaji
+120,Embraer,88,29,24,Razmontiran
+121,Embraer,100,20,157,Na popravku
+122,Airbus,70,28,184,Na popravku
+123,Challenger,15,17,20,Na prodaji
+124,Cessna,99,3,76,Aktivan
+125,Airbus,72,13,73,Aktivan
+126,Bombardier,47,23,263,Na prodaji
+127,Airbus,97,6,163,Na popravku
+128,Cessna,103,26,111,Na popravku
+129,Boeing,46,11,60,Na prodaji
+130,Cessna,47,1,490,Aktivan
+131,Bombardier,148,24,377,Na popravku
+132,Airbus,57,5,46,Razmontiran
+133,Embraer,48,15,90,Na popravku
+134,Boeing,112,4,209,Na prodaji
+135,Cessna,112,19,361,Na prodaji
+136,Airbus,129,17,412,Na popravku
+137,Bombardier,135,5,159,Aktivan
+138,Boeing,97,2,469,Na prodaji
+139,Boeing,43,18,137,Na popravku
+140,Embraer,120,8,281,Na popravku
+141,Cessna,9,23,113,Aktivan
+142,Cessna,99,22,375,Na popravku
+143,Challenger,84,6,187,Aktivan
+144,Boeing,1,7,420,Aktivan
+145,Cessna,68,7,425,Aktivan
+146,Airbus,108,23,96,Razmontiran
+147,Cessna,60,28,479,Aktivan
+148,Cessna,125,10,455,Aktivan
+149,Airbus,16,21,17,Aktivan
+150,Airbus,28,16,141,Aktivan
+151,Airbus,75,19,291,Aktivan
+152,Cessna,13,15,177,Aktivan
+153,Airbus,26,30,321,Aktivan
+154,Challenger,143,19,421,Na prodaji
+155,Cessna,127,10,59,Razmontiran
+156,Challenger,51,20,377,Aktivan
+157,Challenger,105,11,249,Razmontiran
+158,Bombardier,6,13,392,Razmontiran
+159,Embraer,145,16,144,Na prodaji
+160,Embraer,3,10,342,Aktivan
+161,Bombardier,56,9,127,Aktivan
+162,Airbus,133,17,339,Aktivan
+163,Challenger,134,26,43,Aktivan
+164,Cessna,140,4,126,Razmontiran
+165,Challenger,102,12,492,Razmontiran
+166,Bombardier,116,14,189,Aktivan
+167,Boeing,137,16,301,Razmontiran
+168,Airbus,34,17,370,Aktivan
+169,Embraer,24,28,374,Razmontiran
+170,Boeing,134,5,383,Aktivan
+171,Embraer,89,7,70,Aktivan
+172,Airbus,72,5,283,Aktivan
+173,Bombardier,137,5,10,Aktivan
+174,Embraer,84,19,320,Aktivan
+175,Cessna,150,28,19,Na prodaji
+176,Cessna,150,14,356,Aktivan
+177,Bombardier,38,30,280,Aktivan
+178,Embraer,86,15,274,Na popravku
+179,Bombardier,144,24,121,Aktivan
+180,Challenger,50,10,207,Na prodaji
+181,Cessna,57,10,173,Na popravku
+182,Airbus,49,9,444,Aktivan
+183,Challenger,97,1,333,Aktivan
+184,Cessna,68,27,7,Na popravku
+185,Bombardier,55,9,247,Na popravku
+186,Embraer,69,21,295,Aktivan
+187,Cessna,34,5,459,Aktivan
+188,Embraer,68,22,256,Aktivan
+189,Challenger,127,30,108,Aktivan
+190,Airbus,120,5,276,Aktivan
+191,Airbus,109,24,432,Aktivan
+192,Airbus,131,4,421,Aktivan
+193,Bombardier,89,12,481,Razmontiran
+194,Airbus,99,7,252,Na prodaji
+195,Bombardier,114,14,233,Aktivan
+196,Challenger,83,2,279,Aktivan
+197,Cessna,135,30,197,Razmontiran
+198,Airbus,63,27,237,Na popravku
+199,Challenger,45,26,147,Na popravku
+200,Cessna,33,6,419,Na prodaji
+201,Embraer,71,25,268,Aktivan
+202,Airbus,84,25,473,Na popravku
+203,Airbus,10,16,437,Aktivan
+204,Embraer,14,25,362,Na prodaji
+205,Embraer,123,5,226,Na prodaji
+206,Embraer,138,13,54,Na prodaji
+207,Embraer,123,30,323,Na prodaji
+208,Challenger,105,30,196,Aktivan
+209,Embraer,46,29,174,Aktivan
+210,Boeing,123,19,16,Na popravku
+211,Embraer,27,8,96,Aktivan
+212,Cessna,6,23,159,Aktivan
+213,Cessna,69,5,362,Razmontiran
+214,Challenger,131,17,415,Na prodaji
+215,Bombardier,1,24,497,Aktivan
+216,Challenger,127,15,100,Aktivan
+217,Bombardier,93,15,425,Aktivan
+218,Cessna,143,12,482,Na popravku
+219,Boeing,101,28,460,Aktivan
+220,Cessna,148,18,346,Aktivan
+221,Cessna,73,12,203,Na prodaji
+222,Challenger,127,28,222,Razmontiran
+223,Bombardier,134,4,48,Aktivan
+224,Cessna,86,16,322,Na popravku
+225,Bombardier,125,30,110,Na popravku
+226,Airbus,80,2,371,Na prodaji
+227,Bombardier,75,7,130,Razmontiran
+228,Boeing,89,17,383,Aktivan
+229,Bombardier,64,13,250,Aktivan
+230,Embraer,135,21,214,Na popravku
+231,Challenger,150,12,212,Aktivan
+232,Embraer,104,15,458,Na prodaji
+233,Bombardier,39,7,285,Na popravku
+234,Cessna,89,25,269,Aktivan
+235,Challenger,106,4,40,Na popravku
+236,Challenger,78,10,274,Na popravku
+237,Airbus,34,13,172,Razmontiran
+238,Airbus,14,28,29,Na popravku
+239,Airbus,104,21,275,Na popravku
+240,Bombardier,114,24,293,Razmontiran
+241,Boeing,136,15,261,Aktivan
+242,Bombardier,106,2,363,Aktivan
+243,Airbus,123,17,239,Razmontiran
+244,Bombardier,105,21,366,Na popravku
+245,Cessna,57,17,228,Na prodaji
+246,Embraer,10,4,421,Aktivan
+247,Airbus,15,15,162,Aktivan
+248,Airbus,51,1,401,Razmontiran
+249,Cessna,45,20,320,Aktivan
+250,Embraer,2,18,313,Aktivan
+251,Cessna,55,8,437,Aktivan
+252,Challenger,49,17,93,Na prodaji
+253,Embraer,104,16,297,Na popravku
+254,Airbus,150,9,234,Aktivan
+255,Boeing,62,16,222,Razmontiran
+256,Bombardier,59,19,360,Aktivan
+257,Challenger,25,12,377,Aktivan
+258,Cessna,146,26,255,Aktivan
+259,Bombardier,98,6,67,Na prodaji
+260,Embraer,79,17,432,Aktivan
+261,Airbus,143,15,324,Na popravku
+262,Bombardier,61,10,430,Na popravku
+263,Bombardier,130,2,215,Na popravku
+264,Airbus,67,1,459,Razmontiran
+265,Embraer,46,13,393,Na popravku
+266,Embraer,61,7,212,Na popravku
+267,Embraer,66,12,439,Na popravku
+268,Cessna,78,21,471,Na popravku
+269,Cessna,97,21,321,Aktivan
+270,Boeing,102,15,369,Na popravku
+271,Boeing,14,15,404,Aktivan
+272,Embraer,73,15,475,Na popravku
+273,Boeing,26,14,450,Aktivan
+274,Airbus,148,14,176,Aktivan
+275,Bombardier,35,11,407,Na popravku
+276,Boeing,66,19,7,Na prodaji
+277,Bombardier,57,17,368,Aktivan
+278,Bombardier,30,28,168,Aktivan
+279,Bombardier,61,21,444,Aktivan
+280,Airbus,43,4,393,Aktivan
+281,Airbus,86,21,489,Na prodaji
+282,Airbus,148,29,328,Aktivan
+283,Bombardier,94,23,104,Na popravku
+284,Airbus,90,25,324,Razmontiran
+285,Cessna,26,12,81,Aktivan
+286,Embraer,21,22,416,Na prodaji
+287,Embraer,26,21,344,Aktivan
+288,Embraer,6,22,484,Na prodaji
+289,Boeing,123,21,90,Na popravku
+290,Boeing,28,19,463,Aktivan
+291,Cessna,143,16,33,Na prodaji
+292,Airbus,94,18,476,Aktivan
+293,Cessna,70,6,213,Aktivan
+294,Embraer,110,3,447,Aktivan
+295,Boeing,19,7,106,Aktivan
+296,Embraer,31,29,40,Razmontiran
+297,Bombardier,141,30,204,Aktivan
+298,Embraer,94,6,492,Aktivan
+299,Cessna,84,29,317,Aktivan
+300,Challenger,3,18,273,Aktivan
+301,Boeing,105,18,28,Aktivan
+302,Cessna,4,18,425,Na popravku
+303,Boeing,42,13,315,Na prodaji
+304,Boeing,52,25,71,Aktivan
+305,Cessna,85,6,296,Aktivan
+306,Boeing,131,29,345,Aktivan
+307,Cessna,119,14,368,Aktivan
+308,Boeing,21,29,344,Aktivan
+309,Embraer,42,2,177,Na prodaji
+310,Bombardier,9,6,490,Aktivan
+311,Cessna,12,26,174,Aktivan
+312,Embraer,8,2,163,Aktivan
+313,Embraer,26,26,66,Razmontiran
+314,Embraer,23,26,65,Aktivan
+315,Airbus,70,4,323,Aktivan
+316,Airbus,20,28,385,Aktivan
+317,Embraer,84,28,485,Na popravku
+318,Boeing,9,3,246,Aktivan
+319,Embraer,44,28,232,Na popravku
+320,Cessna,66,21,142,Na popravku
+321,Bombardier,25,7,338,Razmontiran
+322,Bombardier,14,6,378,Aktivan
+323,Airbus,77,21,90,Aktivan
+324,Bombardier,107,22,142,Aktivan
+325,Embraer,14,3,8,Aktivan
+326,Challenger,141,18,4,Aktivan
+327,Embraer,88,18,396,Aktivan
+328,Embraer,9,19,322,Aktivan
+329,Airbus,97,9,46,Razmontiran
+330,Challenger,62,8,309,Aktivan
+331,Boeing,37,18,485,Aktivan
+332,Challenger,23,19,25,Na prodaji
+333,Boeing,41,19,178,Na prodaji
+334,Challenger,97,26,234,Aktivan
+335,Airbus,146,16,313,Aktivan
+336,Embraer,59,4,328,Aktivan
+337,Boeing,82,27,154,Na popravku
+338,Cessna,150,22,76,Aktivan
+339,Cessna,68,14,491,Aktivan
+340,Bombardier,12,3,223,Na prodaji
+341,Challenger,48,30,228,Na prodaji
+342,Embraer,41,17,229,Na popravku
+343,Cessna,128,12,268,Na popravku
+344,Embraer,23,8,266,Na popravku
+345,Challenger,134,16,368,Aktivan
+346,Bombardier,140,15,30,Na popravku
+347,Challenger,150,26,218,Na popravku
+348,Cessna,116,23,187,Aktivan
+349,Challenger,94,21,303,Aktivan
+350,Challenger,36,15,431,Na popravku
+351,Bombardier,2,19,299,Na prodaji
+352,Airbus,129,29,397,Na popravku
+353,Cessna,21,3,328,Na prodaji
+354,Boeing,21,16,242,Aktivan
+355,Boeing,25,17,306,Na popravku
+356,Boeing,81,20,391,Razmontiran
+357,Boeing,11,15,254,Na popravku
+358,Airbus,17,27,204,Na popravku
+359,Embraer,138,18,448,Aktivan
+360,Challenger,101,24,500,Aktivan
+361,Bombardier,26,7,496,Na prodaji
+362,Boeing,146,23,123,Razmontiran
+363,Bombardier,148,15,466,Na popravku
+364,Airbus,12,10,291,Na popravku
+365,Airbus,39,14,458,Aktivan
+366,Boeing,45,18,96,Na prodaji
+367,Challenger,34,21,188,Aktivan
+368,Challenger,29,20,134,Aktivan
+369,Cessna,115,2,295,Aktivan
+370,Embraer,22,14,56,Na popravku
+371,Bombardier,96,2,358,Aktivan
+372,Airbus,58,15,165,Aktivan
+373,Embraer,21,18,119,Aktivan
+374,Airbus,126,5,273,Na popravku
+375,Cessna,3,10,126,Na prodaji
+376,Challenger,85,16,258,Aktivan
+377,Cessna,24,23,341,Aktivan
+378,Bombardier,69,18,417,Aktivan
+379,Embraer,40,6,43,Aktivan
+380,Boeing,85,9,452,Na popravku
+381,Cessna,8,26,255,Na prodaji
+382,Airbus,2,6,378,Aktivan
+383,Bombardier,98,3,297,Aktivan
+384,Embraer,136,22,253,Na prodaji
+385,Airbus,109,7,461,Na prodaji
+386,Challenger,25,2,245,Na prodaji
+387,Airbus,51,16,391,Na popravku
+388,Challenger,100,11,417,Aktivan
+389,Boeing,53,15,258,Aktivan
+390,Boeing,61,26,222,Na prodaji
+391,Airbus,1,28,428,Aktivan
+392,Airbus,24,2,215,Aktivan
+393,Challenger,64,17,251,Na popravku
+394,Embraer,58,24,451,Aktivan
+395,Airbus,55,13,488,Razmontiran
+396,Embraer,136,10,161,Aktivan
+397,Boeing,10,29,4,Na popravku
+398,Airbus,107,4,388,Razmontiran
+399,Boeing,114,24,161,Aktivan
+400,Bombardier,33,22,241,Aktivan
+401,Challenger,118,30,497,Aktivan
+402,Boeing,150,23,65,Na prodaji
+403,Embraer,128,23,233,Na popravku
+404,Boeing,90,23,183,Aktivan
+405,Airbus,114,9,434,Na popravku
+406,Embraer,143,6,281,Na prodaji
+407,Boeing,11,10,59,Aktivan
+408,Airbus,84,5,278,Aktivan
+409,Embraer,149,11,431,Aktivan
+410,Embraer,16,3,236,Na popravku
+411,Challenger,45,29,495,Aktivan
+412,Boeing,4,27,79,Razmontiran
+413,Cessna,47,27,126,Na popravku
+414,Cessna,80,9,180,Na prodaji
+415,Bombardier,16,16,98,Na popravku
+416,Embraer,126,5,122,Aktivan
+417,Cessna,117,3,146,Aktivan
+418,Embraer,35,2,498,Na prodaji
+419,Airbus,80,27,349,Aktivan
+420,Airbus,40,29,136,Na popravku
+421,Challenger,37,3,249,Na popravku
+422,Cessna,46,13,346,Aktivan
+423,Embraer,29,26,263,Na popravku
+424,Boeing,32,17,359,Na prodaji
+425,Airbus,106,16,92,Na popravku
+426,Bombardier,80,23,58,Aktivan
+427,Challenger,72,12,374,Aktivan
+428,Cessna,7,14,190,Aktivan
+429,Embraer,5,1,253,Na popravku
+430,Embraer,94,11,449,Aktivan
+431,Challenger,4,23,412,Na popravku
+432,Boeing,116,17,25,Aktivan
+433,Boeing,33,3,422,Aktivan
+434,Cessna,79,5,9,Aktivan
+435,Boeing,76,21,158,Na prodaji
+436,Boeing,105,30,106,Aktivan
+437,Cessna,111,1,154,Na popravku
+438,Cessna,144,20,392,Razmontiran
+439,Cessna,111,6,374,Aktivan
+440,Boeing,148,4,437,Razmontiran
+441,Embraer,6,20,411,Aktivan
+442,Airbus,86,24,102,Aktivan
+443,Airbus,40,5,354,Aktivan
+444,Challenger,5,8,93,Aktivan
+445,Challenger,102,7,168,Razmontiran
+446,Bombardier,72,14,400,Na popravku
+447,Boeing,74,15,464,Aktivan
+448,Bombardier,85,2,478,Aktivan
+449,Airbus,89,21,484,Razmontiran
+450,Airbus,22,19,66,Na prodaji
+451,Cessna,65,17,445,Na prodaji
+452,Boeing,138,24,183,Aktivan
+453,Airbus,142,30,74,Razmontiran
+454,Bombardier,114,29,8,Aktivan
+455,Embraer,9,21,278,Na prodaji
+456,Challenger,25,25,67,Aktivan
+457,Airbus,22,4,33,Razmontiran
+458,Challenger,89,11,236,Aktivan
+459,Cessna,39,16,281,Na popravku
+460,Boeing,137,28,308,Razmontiran
+461,Embraer,51,19,184,Aktivan
+462,Airbus,148,9,403,Aktivan
+463,Boeing,46,28,75,Aktivan
+464,Embraer,66,2,38,Aktivan
+465,Embraer,70,13,121,Aktivan
+466,Cessna,5,25,304,Aktivan
+467,Embraer,34,14,465,Na popravku
+468,Bombardier,45,22,371,Na popravku
+469,Cessna,138,29,321,Aktivan
+470,Boeing,17,19,59,Aktivan
+471,Cessna,129,29,414,Na popravku
+472,Challenger,15,13,283,Aktivan
+473,Airbus,108,26,129,Na prodaji
+474,Boeing,47,26,487,Aktivan
+475,Bombardier,79,21,283,Aktivan
+476,Cessna,137,12,468,Aktivan
+477,Bombardier,131,9,490,Na popravku
+478,Bombardier,14,11,58,Na popravku
+479,Cessna,126,20,406,Aktivan
+480,Airbus,78,20,36,Razmontiran
+481,Boeing,143,4,467,Na popravku
+482,Airbus,120,11,220,Na prodaji
+483,Boeing,4,18,55,Aktivan
+484,Challenger,42,28,233,Aktivan
+485,Boeing,13,12,114,Na popravku
+486,Cessna,21,28,27,Na prodaji
+487,Bombardier,74,15,208,Razmontiran
+488,Airbus,113,12,42,Aktivan
+489,Challenger,70,28,270,Razmontiran
+490,Boeing,34,9,421,Aktivan
+491,Embraer,32,23,415,Na popravku
+492,Boeing,104,1,108,Aktivan
+493,Embraer,52,12,328,Aktivan
+494,Embraer,104,30,207,Na popravku
+495,Boeing,45,16,345,Aktivan
+496,Airbus,63,11,147,Aktivan
+497,Cessna,18,23,75,Na prodaji
+498,Boeing,131,28,211,Na popravku
+499,Bombardier,4,18,38,Na popravku
+500,Cessna,1,19,20,Na popravku
+501,Cessna,13,17,358,Aktivan
+502,Embraer,118,26,45,Aktivan
+503,Cessna,99,3,340,Aktivan
+504,Embraer,3,29,96,Aktivan
+505,Cessna,35,28,23,Aktivan
+506,Bombardier,95,17,64,Na prodaji
+507,Cessna,54,22,368,Aktivan
+508,Airbus,150,28,343,Na popravku
+509,Embraer,63,18,312,Aktivan
+510,Cessna,122,25,467,Aktivan
+511,Challenger,15,17,55,Aktivan
+512,Embraer,146,19,217,Na prodaji
+513,Boeing,14,7,444,Na popravku
+514,Airbus,84,7,472,Aktivan
+515,Bombardier,122,19,58,Aktivan
+516,Cessna,27,9,378,Razmontiran
+517,Airbus,14,16,59,Razmontiran
+518,Embraer,29,30,201,Aktivan
+519,Cessna,93,17,2,Na popravku
+520,Embraer,29,29,378,Aktivan
+521,Airbus,4,18,371,Na popravku
+522,Challenger,127,25,378,Aktivan
+523,Bombardier,37,7,118,Na popravku
+524,Airbus,5,27,305,Aktivan
+525,Challenger,149,6,274,Aktivan
+526,Airbus,16,15,238,Aktivan
+527,Boeing,62,13,322,Na prodaji
+528,Embraer,45,27,402,Na prodaji
+529,Embraer,95,19,433,Na popravku
+530,Airbus,131,4,48,Razmontiran
+531,Embraer,92,7,413,Aktivan
+532,Embraer,11,28,245,Razmontiran
+533,Challenger,15,6,303,Razmontiran
+534,Boeing,52,5,64,Aktivan
+535,Airbus,144,23,346,Aktivan
+536,Embraer,52,12,277,Aktivan
+537,Bombardier,114,27,425,Aktivan
+538,Cessna,13,17,98,Aktivan
+539,Challenger,146,2,482,Aktivan
+540,Boeing,121,3,347,Aktivan
+541,Bombardier,16,15,161,Na prodaji
+542,Boeing,122,3,492,Aktivan
+543,Bombardier,12,30,270,Aktivan
+544,Cessna,49,11,240,Aktivan
+545,Challenger,100,5,474,Na popravku
+546,Challenger,57,24,178,Na popravku
+547,Challenger,76,26,101,Aktivan
+548,Bombardier,53,8,491,Aktivan
+549,Boeing,9,12,2,Razmontiran
+550,Airbus,78,22,349,Na popravku
+551,Boeing,90,26,71,Aktivan
+552,Bombardier,41,2,317,Aktivan
+553,Airbus,142,10,92,Razmontiran
+554,Embraer,11,7,88,Aktivan
+555,Embraer,70,8,51,Razmontiran
+556,Bombardier,99,9,31,Aktivan
+557,Embraer,141,27,217,Na prodaji
+558,Airbus,129,18,412,Aktivan
+559,Airbus,91,19,500,Aktivan
+560,Airbus,50,12,461,Na popravku
+561,Cessna,29,16,105,Aktivan
+562,Bombardier,9,23,166,Aktivan
+563,Airbus,112,10,317,Na popravku
+564,Embraer,5,28,417,Na prodaji
+565,Airbus,107,18,235,Aktivan
+566,Airbus,13,2,170,Aktivan
+567,Boeing,29,22,196,Razmontiran
+568,Cessna,61,25,297,Aktivan
+569,Cessna,128,6,421,Aktivan
+570,Challenger,43,9,262,Aktivan
+571,Challenger,146,12,236,Aktivan
+572,Cessna,16,27,175,Na popravku
+573,Cessna,117,17,22,Aktivan
+574,Bombardier,66,9,381,Razmontiran
+575,Cessna,123,14,13,Aktivan
+576,Bombardier,26,19,132,Razmontiran
+577,Embraer,108,23,250,Aktivan
+578,Challenger,94,28,233,Aktivan
+579,Embraer,7,14,205,Na prodaji
+580,Challenger,67,24,180,Aktivan
+581,Challenger,145,14,99,Aktivan
+582,Airbus,4,21,35,Aktivan
+583,Cessna,7,23,109,Na prodaji
+584,Airbus,33,7,407,Na prodaji
+585,Challenger,148,4,240,Aktivan
+586,Boeing,121,11,467,Na prodaji
+587,Boeing,140,12,159,Razmontiran
+588,Boeing,68,27,268,Razmontiran
+589,Boeing,34,16,110,Na prodaji
+590,Boeing,116,22,103,Aktivan
+591,Embraer,26,1,141,Razmontiran
+592,Embraer,3,17,410,Na popravku
+593,Challenger,44,13,374,Aktivan
+594,Bombardier,99,9,359,Aktivan
+595,Boeing,115,1,321,Na popravku
+596,Bombardier,57,15,402,Razmontiran
+597,Challenger,134,5,209,Aktivan
+598,Airbus,43,29,295,Razmontiran
+599,Embraer,102,16,25,Aktivan
+600,Bombardier,114,13,28,Aktivan
